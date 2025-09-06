@@ -6,8 +6,6 @@ The software that I created displays a text that says Hello World.
 
 I created this software for the purpose of demonstrating my basic knowledge and application of the Java programming language.
 
-[Software Demo Video](https://youtu.be/s4Gs7MsLmLI)
-
 # Development Environment
 
 I downloaded the Eclipse IDE since I determined through my research that is the most recommended platform to work on Java project. I also used GitHub to connect my repository to my project in Eclipse.
